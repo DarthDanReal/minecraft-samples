@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-      "description": "My dirt resource pack Add-On!",
-      "name": "My Resource Pack",
-      "uuid":"f792a765-6eec-47e1-baea-599424fec93d",
-      "version": [1, 0, 0],
-      "min_engine_version": [1, 16, 0]
+      "description": "16x PvP Pack by DarthPiglet2 (DarthDan)",
+      "name": "Demon Slayer 16x",
+      "uuid":"de15f3be-195e-4784-95d1-79b37b06eb58",
+      "version": [0, 0, 1],
+      "min_engine_version": [1, 21, 0]
      },
     "modules": [
       {
-        "description": "My First Add-On!",
+        "description": "My First Texture Pack lol",
         "type": "resources",
-        "uuid": "457f55a3-2573-4e3c-a5db-f7e64b3d43a5",
-        "version": [1, 0, 0]
+        "uuid": "aec0982b-708f-4def-8e40-357930f45061",
+        "version": [0, 0, 1]
       }
     ]
    }
